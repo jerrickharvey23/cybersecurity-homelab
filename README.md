@@ -37,7 +37,8 @@ Through this homelab, I gained hands-on experience setting up and managing Windo
 
 ## Steps
 
-*Drag & drop screenshots here or use Imgur and reference them using Markdown image links.*
+<img width="1918" height="1010" alt="image" src="https://github.com/user-attachments/assets/6f6da402-e257-4b5e-b465-4a7803ef8115" />
+
 
 > 💡 Every screenshot should have a short caption and explanation of what’s being shown.
 
