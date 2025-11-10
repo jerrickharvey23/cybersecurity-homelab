@@ -1,0 +1,38 @@
+# Active Directory Homelab
+
+## Objective
+To simulate an enterprise environment using Windows Server 2022 with Active Directory, DNS, and DHCP to manage a small Windows network.
+
+### Skills Learned
+- AD DS setup and configuration
+- User/group policy management
+- DNS & DHCP integration
+- Networking and authentication concepts
+
+### Tools Used
+- VMware Workstation Pro
+- Windows Server 2022
+- Windows 10 Pro (client)
+- PowerShell
+
+---
+
+## Steps
+
+### Step 1: Environment Setup
+Created 2 virtual machines:
+- **Server01** (Windows Server 2022)
+- **Client01** (Windows 10 Pro)
+
+Configured internal networking in VMware (“Host-only” mode).
+
+*Ref 1: VMware network settings screenshot*
+![Network Diagram](./screenshots/vmware-network.png)
+
+---
+
+### Step 2: Install Active Directory Domain Services
+Used PowerShell to install AD DS:
+
+```powershell
+Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
