@@ -40,11 +40,13 @@ Through this homelab, I gained hands-on experience setting up and managing Windo
 <img width="1918" height="1010" alt="image" src="https://github.com/user-attachments/assets/6f6da402-e257-4b5e-b465-4a7803ef8115" />
 
 Ref 1: VMware Workstation - Virtual Machines for Homelabs.
+
 These are the lists of my VM.
 
 <img width="594" height="523" alt="image" src="https://github.com/user-attachments/assets/98c473de-d60f-4705-8963-6ec43a3f11cf" />
 
 Ref 2: VMware virtual networks.
+
 This is my Network names for my VM.
 
 > 💡 Every screenshot should have a short caption and explanation of what’s being shown.
